@@ -13,20 +13,25 @@
 望日后能再有机会继续深入学习下去。
 
 主要内容：
+
 CH1:
 * sitemap
 * whois
 * robots.txt
 * download()
+
 CH2:
 * 正则表达式法
 * BeautifulSoup法
 * LXML法
+
 CH3:
 * 下载缓存
+
 CH4：
 * 多线程
 * 多进程
+
 CH5:
 * 网页逆向分析
 
