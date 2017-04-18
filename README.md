@@ -45,8 +45,8 @@ CH5:
  书中示例抓取的[网站](http://example.webscraping.com)：http://example.webscraping.com
  
  感谢
-   作者 Richard Lawson
-   翻译 李斌
+ 作者 Richard Lawson
+ 翻译 李斌
    
  如果有相关侵权或者有见解讨论，请发邮件到我的邮箱：1044829783@qq.com
  
