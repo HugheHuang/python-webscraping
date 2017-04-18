@@ -39,7 +39,7 @@ CH5:
 ----------------------------------------------------------------------2017/04/18-----
 
 所用书籍：
- ![所用书籍] (https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1492536090164&di=15913815508ad7265af274117b6590ea&imgtype=0&src=http%3A%2F%2Fimages.bookdao.com%2Fbk%2F082616%2F1%2F0ef147c3-71bd-4fa2-8270-1f28d451e5c0.jpg)
+ ![所用书籍](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1492536090164&di=15913815508ad7265af274117b6590ea&imgtype=0&src=http%3A%2F%2Fimages.bookdao.com%2Fbk%2F082616%2F1%2F0ef147c3-71bd-4fa2-8270-1f28d451e5c0.jpg)
  书中示例抓取的[网站](http://example.webscraping.com)：http://example.webscraping.com
  
  感谢
